@@ -6,7 +6,7 @@ pub:            "Japanese Journal of Statistics and Data Science"
 pub_date:       "2024+"
 abstract: >-
   This paper surveys statistical and machine learning methods for quantile regression in time series, focusing on their suitability for predicting dengue outbreaks.
-cover:          /assets/images/covers/dengue_quantile_regression.jpg
+cover:          assets/images/badges/jjsd.jfif
 authors:
 - Deshmukh, S.
 - Deb, S.
