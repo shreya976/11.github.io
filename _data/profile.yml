@@ -1,17 +1,18 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "Shreyash Deshmukh"
+secondary_name: "Shreyash"
+navbar_name: "Shreyash Deshmukh"
 
 positions:
-  - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-    name: Position 1 with logo
-  - name: Position 2 without logo
+  - logo: /assets/images/badges/IIM_Kozhikode_Logo.svg.png  # Logo is optional
+    name: PhD Researcher 
 
-email: "your@email.com"
+
+email: "shrdjhu@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # Replace with your own Google Scholar ID
 github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+twitter: https://x.com/ShreyshDeshmukh  # Do not include the '@' symbol
+linkedin : https://www.linkedin.com/in/shreyas-deshmukh-268720184/
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my WeChat. Thanks!
@@ -39,21 +40,21 @@ portrait_caption: >-
 
 education:
   - name: Indian Institute of Management, Bangalore
-    logo: /assets/images/badges/MIT_Social_circle.png
+    logo: /assets/images/badges/https://IIM_Bangalore_Logo.svg.png
     position: >-
       Department of Decision Science <br/>
-      Ph.D. Student
+      Predoctoral Fellow
     date: June 2023 - Present
   - name: International Institute for Population Sciences, Mumbai
-    logo: /assets/images/badges/PKU_red.png
+    logo: /assets/images/badges/IIPS_Logo.png
     position: Master of Population Studies
     date: 2022 - 2023
   - name: Sardar Patel University, Anand
-    logo: /assets/images/badges/PKU_red.png
+    logo: /assets/images/badges/SP_University_logo.png
     position: Master of Statistics
     date: 2018 - 2020
   - name: Savitribai Phule Pune University, Maharashtra
-    logo: /assets/images/badges/PKU_red.png
+    logo: /assets/images/badges/Savitribai_Phule_Pune_University_Logo.png
     position: Bachelor of Statistics
     date: 2015 - 2018
 
