@@ -1,13 +1,10 @@
 ---
 layout: default
-title : Homepage
+title: Homepage
 navbar_title: Home
 ---
 
-{% include widgets/debug_repo_name.html %}
 {% include widgets/profile_card.html %}
-
-{% include widgets/debug_repo_name.html %}
 
 {% include widgets/debug_url.html %}
 
@@ -21,7 +18,7 @@ navbar_title: Home
         {% include widgets/news_card.html limit=site.data.display.homepage.num_news %}
     {% endif %}
 {% endif %}
-{% include widgets/debug_repo_name.html %}
+
 {% if site.data.display.homepage.show_selected_publications %}
     {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
     {% 
