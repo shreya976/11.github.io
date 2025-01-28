@@ -35,36 +35,16 @@ portrait_caption: >-
   #Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-  - name: Indian Institute of Management, Bangalore
-    logo: /assets/images/badges/IIM_Bangalore_Logo.svg.png
-    position: >-
-      Department of Decision Science <br/>
-      Ph.D. Student
-    date: June 2023 - Present
-    description: >-
-      Currently pursuing a Ph.D. in Decision Science with a focus on quantile autoregression and its applications in time series data.
-
-  - name: International Institute for Population Sciences, Mumbai
-    logo: /assets/images/badges/IIPS_Logo.png
-    position: Master of Population Studies
-    date: 2022 - 2023
-    description: >-
-      Specialized in population studies with a focus on public health research and demographic analysis.
-
-  - name: Sardar Patel University, Anand
-    logo: /assets/images/badges/SP_University_logo.png
-    position: Master of Statistics
-    date: 2018 - 2020
-    description: >-
-      Advanced studies in statistical methodologies, data analysis, and predictive modeling.
-
-  - name: Savitribai Phule Pune University, Maharashtra
-    logo: /assets/images/badges/Savitribai_Phule_Pune_University_Logo.png
-    position: Bachelor of Statistics
-    date: 2015 - 2018
-    description: >-
-      Undergraduate degree in Statistics, with a strong foundation in statistical theory and applications.
-
+- name: Massachusetts Institute of Technology
+  logo: /assets/images/badges/MIT_Social_circle.png
+  position: >- 
+    Department of Electrical Engineering and Computer Science <br/>
+    Ph.D. Student
+  date: Sep. 2024 - present
+- name: Peking University
+  logo: /assets/images/badges/PKU_red.png
+  position: B.S. in Computer Science
+  date: Sep. 2019 - Jul. 2021
 # experience:
 #   - name: Peking University
 #     logo: /assets/images/badges/PKU_red.png
