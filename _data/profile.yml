@@ -39,21 +39,20 @@ portrait_caption: >-
 
 education:
   - name: Indian Institute of Management, Bangalore
-    logo: /assets/images/badges/MIT_Social_circle.png
+    logo: /assets/images/badges/IIM_Bangalore_Logo.svg.png
     position: >-
       Department of Decision Science <br/>
       Ph.D. Student
     date: June 2023 - Present
   - name: International Institute for Population Sciences, Mumbai
-    logo: /assets/images/badges/PKU_red.png
+    logo: /assets/images/badges/IIPS_Logo.png
     position: Master of Population Studies
     date: 2022 - 2023
   - name: Sardar Patel University, Anand
-    logo: /assets/images/badges/PKU_red.png
     position: Master of Statistics
     date: 2018 - 2020
   - name: Savitribai Phule Pune University, Maharashtra
-    logo: /assets/images/badges/PKU_red.png
+    logo: /assets/images/badges/Savitribai_Phule_Pune_University_Logo.png
     position: Bachelor of Statistics
     date: 2015 - 2018
 
