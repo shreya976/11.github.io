@@ -21,18 +21,15 @@ linkedin : https://www.linkedin.com/in/shreyas-deshmukh-268720184/
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other color, for example, solid black, tabby, or color-pointed.
-  </p>
-  <p>
-    I am a pre-doctoral fellow at IIM Bangalore in the field of decision science, under the mentorship of <a href="https://soudeepd.github.io/">Dr. Soudeep Deb</a>. Here, I have worked on developing novel methodologies for predicting disease outbreaks and evaluating them using experimental and simulation approaches. Currently, I am focused on quantile autoregression and its efficiency in predicting higher values in time series data.
-  </p>
-  <p>
-    I am a dedicated researcher with a post-graduate degree in Statistics and a Master’s in Population Studies. With a profound interest in public health research, I hold a master's in Population Studies from the International Institute for Population Sciences in Mumbai. My academic journey has been enriched with an MSc in Statistics from Sardar Patel University, Anand, Gujarat, and a BSc in Statistics from Savitribai Phule Pune University, Maharashtra.
-  </p>
-  <p>
-    In my recent role as a Statistician and Jr Data Manager at Johns Hopkins India Private Limited, Pune, I played a pivotal role in supervising data management staff, developing clinical risk prediction methods, and contributing to the statistical analysis plans for complex public health and clinical research projects. I have also worked on many freelance projects, showcasing my proficiency in designing surveys, analyzing clinical data, and leveraging statistical methodologies.
-  </p>
+<p>
+  I was a pre-doctoral fellow at IIM Bangalore in the field of decision science, under the mentorship of <a href="https://soudeepd.github.io/">Dr. Soudeep Deb</a>. During this time, I developed novel methodologies for predicting disease outbreaks and evaluated them using experimental and simulation approaches. Currently, my research focuses on quantile autoregression and its efficiency in predicting extreme values in time series data.
+</p>
+<p>
+  I am a dedicated researcher with a post-graduate degree in Statistics and a Master’s in Population Studies. My academic journey includes a Master's in Population Studies from the International Institute for Population Sciences (IIPS), Mumbai, an MSc in Statistics from Sardar Patel University, Anand, Gujarat, and a BSc in Statistics from Savitribai Phule Pune University, Maharashtra. My academic background has fueled my profound interest in public health research.
+</p>
+<p>
+  In my recent role as a Statistician and Junior Data Manager at Johns Hopkins India Private Limited, Pune, I played a pivotal role in supervising data management teams, developing clinical risk prediction models, and contributing to statistical analysis plans for complex public health and clinical research projects. Additionally, I have worked on numerous freelance projects, demonstrating my expertise in survey design, clinical data analysis, and the application of advanced statistical methodologies.
+</p>
 
 portrait_url: /assets/images/photos/profile.png
 portrait_caption: >-
@@ -40,7 +37,7 @@ portrait_caption: >-
 
 education:
   - name: Indian Institute of Management, Bangalore
-    logo: /assets/images/badges/https://iimbb.png
+    logo: /assets/images/badges/iimbb.png
     position: >-
       Department of Decision Science <br/>
       Predoctoral Fellow
