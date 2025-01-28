@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Shreyash Deshmukh"
 
 positions:
-  - logo: /assets/images/badges/IIM_Kozhikode_Logo.svg.png  # Logo is optional
+  - logo: 11.github.io/assets/images/badges/IIM_Kozhikode_Logo.svg.png  # Logo is optional
     name: Position 1 with logo
   - name: Position 2 without logo
 
@@ -30,19 +30,19 @@ short_bio: >-
     In my recent role as a Statistician and Jr Data Manager at Johns Hopkins India Private Limited, Pune, I played a pivotal role in supervising data management staff, developing clinical risk prediction methods, and contributing to the statistical analysis plans for complex public health and clinical research projects. I have also worked on many freelance projects, showcasing my proficiency in designing surveys, analyzing clinical data, and leveraging statistical methodologies.
   </p>
 
-portrait_url: /assets/images/photos/profile.png
+portrait_url: 11.github.io/assets/images/photos/profile.png
 portrait_caption: >-
   #Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: 11.github.io/assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
     Ph.D. Student
   date: Sep. 2024 - present
 - name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+  logo: 11.github.io/assets/images/badges/PKU_red.png
   position: B.S. in Computer Science
   date: Sep. 2019 - Jul. 2021
 # experience:
