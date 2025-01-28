@@ -25,27 +25,45 @@ short_bio: >-
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+I am a pre-doctoral fellow at IIM Bangalore in the field of decision science, under the mentorship of [Dr. Saudeep Deb](https://soudeepd.github.io/). Here, I have worked on developing novel methodologies for predicting disease outbreaks and evaluating them using experimental and simulation approaches. Currently, I am focused on quantile autoregression and its efficiency in predicting higher values in time series data. 
+
+
+I am a dedicated researcher with a post-graduate degree in Statistics and a Master’s in Population Studies. With a profound interest in public health research. With a master's in population studies from the International Institute for Population Sciences in Mumbai, my academic journey has been enriched with a comprehensive MSc in Statistics from Sardar Patel University, Anand, Gujarat, and a BSc in Statistics from Savitribai Phule Pune University, Maharashtra.
+
+## Professional Journey
+
+In my recent role as a Statistician and Jr Data Manager at Johns Hopkins India Private Limited, Pune, I played a pivotal role in supervising data management staff, developing clinical risk prediction methods, and contributing to the statistical analysis plans for complex public health and clinical research projects.
+
+
+I have worked on many freelance projects, showcasing my proficiency in designing surveys, analyzing clinical data, and leveraging statistical methodologies. 
+
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  #Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: Indian Institute of Management, Bangalore
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Decision Science <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
+  date: June 2023 - May 2024 - present
+- name: International Institute for Population Sciences, Mumbai
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: Master of Population Studies  
+  date: 2022-2023
 
+- name: Sardar Patel University, Anand
+  logo: /assets/images/badges/PKU_red.png
+  position: Master of  Statistics 
+  date: 2018-2020
+
+  - name: Savitribai Phule Pune University, Maharashtra  
+  logo: /assets/images/badges/PKU_red.png
+  position: Bachelor  Statistics 
+  date: 2015-2018
 # experience:
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
@@ -53,9 +71,10 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Qualified UGC-NET JRF (Demography)
+  date: 2023
+- name: Qualified MH-SET (Statistics)
+  date: 2023
+- name: National Talent Search Examination
+  date: 2012
+
