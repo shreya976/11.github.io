@@ -21,9 +21,6 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other color, for example, solid black, tabby, or color-pointed.
-  </p>
-  <p>
     I am a pre-doctoral fellow at IIM Bangalore in the field of decision science, under the mentorship of <a href="https://soudeepd.github.io/">Dr. Soudeep Deb</a>. Here, I have worked on developing novel methodologies for predicting disease outbreaks and evaluating them using experimental and simulation approaches. Currently, I am focused on quantile autoregression and its efficiency in predicting higher values in time series data.
   </p>
   <p>
@@ -33,7 +30,7 @@ short_bio: >-
     In my recent role as a Statistician and Jr Data Manager at Johns Hopkins India Private Limited, Pune, I played a pivotal role in supervising data management staff, developing clinical risk prediction methods, and contributing to the statistical analysis plans for complex public health and clinical research projects. I have also worked on many freelance projects, showcasing my proficiency in designing surveys, analyzing clinical data, and leveraging statistical methodologies.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/profile.png
 portrait_caption: >-
   #Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
@@ -44,17 +41,29 @@ education:
       Department of Decision Science <br/>
       Ph.D. Student
     date: June 2023 - Present
+    description: >-
+      Currently pursuing a Ph.D. in Decision Science with a focus on quantile autoregression and its applications in time series data.
+
   - name: International Institute for Population Sciences, Mumbai
     logo: /assets/images/badges/IIPS_Logo.png
     position: Master of Population Studies
     date: 2022 - 2023
+    description: >-
+      Specialized in population studies with a focus on public health research and demographic analysis.
+
   - name: Sardar Patel University, Anand
+    logo: /assets/images/badges/SP_University_logo.png
     position: Master of Statistics
     date: 2018 - 2020
+    description: >-
+      Advanced studies in statistical methodologies, data analysis, and predictive modeling.
+
   - name: Savitribai Phule Pune University, Maharashtra
     logo: /assets/images/badges/Savitribai_Phule_Pune_University_Logo.png
     position: Bachelor of Statistics
     date: 2015 - 2018
+    description: >-
+      Undergraduate degree in Statistics, with a strong foundation in statistical theory and applications.
 
 # experience:
 #   - name: Peking University
