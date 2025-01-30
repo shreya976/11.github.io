@@ -19,7 +19,7 @@ abstract: >-
   lower expenditure groups. The uneven distribution of wealth and resources across castes is evident, emphasizing
   the need for targeted policy interventions to address these disparities.
 
-cover:          /assets/images/covers/infertility.jpeg
+cover:          /assets/images/covers/inequality.jpeg
 authors:
   - Your Name
   - Shreyash Deshmukh
