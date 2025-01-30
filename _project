@@ -1,1 +1,26 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+</head>
+<body>
+    <h1>Projects</h1>
+    <ul>
+        <li>
+            <h2>Others</h2>
+            <ul>
+                <li><a href="https://github.com/Shryshdshmkh/Shryshdshmkh.github.io/blob/main/_projects/Others/Infertility.md">Infertility.md</a></li>
+                <li><a href="https://github.com/Shryshdshmkh/Shryshdshmkh.github.io/blob/main/_projects/Others/Readme.md">Readme.md</a></li>
+            </ul>
+        </li>
+        <li>
+            <h2>Statistical Papers</h2>
+            <ul>
+                <li><a href="https://github.com/Shryshdshmkh/Shryshdshmkh.github.io/blob/main/_projects/Statistical%20Papers/readme.md">readme.md</a></li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
