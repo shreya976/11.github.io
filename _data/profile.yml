@@ -19,23 +19,24 @@ linkedin: https://www.linkedin.com/in/shreyas-deshmukh-268720184/
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  I am a  doctoral student at <a href="https://www.iimk.ac.in/">
-Indian Institute of Management Kozhikode</a> specializing in Quantitative Methods & Operations Management. My research focuses on non-linear statistical regression and machine learning, particularly in the demographic and health domains. Additionally, I am working on spatio-temporal modeling related to air pollution.
-<p>
-I am open to collaboration in the fields of business analytics, sports analytics and public health analytics.
-  <p>
-    I was a pre-doctoral fellow at IIM Bangalore in the field of decision science, under the mentorship of <a href="https://soudeepd.github.io/">Dr. Soudeep Deb</a>. During this time, I have extensively worked on methodologies for predicting disease outbreaks and evaluated them using experimental and simulation approaches. Currently, my research focuses on quantile autoregression and its efficiency in predicting extreme values in time series data.
+  I am a doctoral student at <a href="https://www.iimk.ac.in/">Indian Institute of Management Kozhikode</a> specializing in Quantitative Methods & Operations Management. My research focuses on non-linear statistical regression and machine learning, particularly in the demographic and health domains. Additionally, I am working on spatio-temporal modeling related to air pollution.
   </p>
   <p>
-    I am a dedicated researcher with a post-graduate degree in Statistics and a Master’s in Population Studies. My academic journey includes a Master's in Population Studies from the International Institute for Population Sciences (IIPS), Mumbai, an MSc in Statistics from Sardar Patel University, Anand, Gujarat, and a BSc in Statistics from Savitribai Phule Pune University, Maharashtra. My academic background has fueled my profound interest in public health research.
+  I am open to collaboration in the fields of business analytics, sports analytics, and public health analytics.
   </p>
   <p>
-    In my recent role as a Statistician and Junior Data Manager at Johns Hopkins India Private Limited, Pune, I played a pivotal role in supervising data management teams, developing clinical risk prediction models, and contributing to statistical analysis plans for complex public health and clinical research projects. Additionally, I have worked on numerous freelance projects, demonstrating my expertise in survey design, clinical data analysis, and the application of advanced statistical methodologies.
+  I was a pre-doctoral fellow at IIM Bangalore in the field of decision science, under the mentorship of <a href="https://soudeepd.github.io/">Dr. Soudeep Deb</a>. During this time, I have extensively worked on methodologies for predicting disease outbreaks and evaluated them using experimental and simulation approaches. Currently, my research focuses on quantile autoregression and its efficiency in predicting extreme values in time series data.
+  </p>
+  <p>
+  I am a dedicated researcher with a post-graduate degree in Statistics and a Master’s in Population Studies. My academic journey includes a Master's in Population Studies from the International Institute for Population Sciences (IIPS), Mumbai, an MSc in Statistics from Sardar Patel University, Anand, Gujarat, and a BSc in Statistics from Savitribai Phule Pune University, Maharashtra. My academic background has fueled my profound interest in public health research.
+  </p>
+  <p>
+  In my recent role as a Statistician and Junior Data Manager at Johns Hopkins India Private Limited, Pune, I played a pivotal role in supervising data management teams, developing clinical risk prediction models, and contributing to statistical analysis plans for complex public health and clinical research projects. Additionally, I have worked on numerous freelance projects, demonstrating my expertise in survey design, clinical data analysis, and the application of advanced statistical methodologies.
   </p>
 
 portrait_url: /assets/images/photos/profile.png
 portrait_caption: >-
-  #Shreyash Deshmukh.  ...
+  #Shreyash Deshmukh.
 
 education:
   - name: Indian Institute of Management, Bangalore
