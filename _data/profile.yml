@@ -19,6 +19,9 @@ linkedin: https://www.linkedin.com/in/shreyas-deshmukh-268720184/
 short_bio_text_justify: false
 short_bio: >-
   <p>
+  I am a  doctoral student at <a href="https://www.iimk.ac.in/">
+Indian Institute of Management Kozhikode</a> specializing in Quantitative Methods & Operations Management. My research focuses on non-linear statistical regression and machine learning, particularly in the demographic and health domains. Additionally, I am working on spatio-temporal modeling related to air pollution.
+  <p>
     I was a pre-doctoral fellow at IIM Bangalore in the field of decision science, under the mentorship of <a href="https://soudeepd.github.io/">Dr. Soudeep Deb</a>. During this time, I have extensively worked on methodologies for predicting disease outbreaks and evaluated them using experimental and simulation approaches. Currently, my research focuses on quantile autoregression and its efficiency in predicting extreme values in time series data.
   </p>
   <p>
@@ -38,7 +41,7 @@ education:
     position: >-
       Department of Decision Science <br/>
       Predoctoral Fellow
-    date: June 2023 - May 2024
+    date: 2023 - 2024
   - name: International Institute for Population Sciences, Mumbai
     logo: /assets/images/badges/IIPS_Logo.png
     position: Master of Population Studies
