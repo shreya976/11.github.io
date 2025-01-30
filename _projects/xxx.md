@@ -13,11 +13,7 @@ abstract: >-
 cover:          /assets/images/covers/infertility.jpeg
 authors:
   - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Shreyash Deshmukh
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
   PDF: /assets/pdf/Infertility_Paper.pdf
 ---
