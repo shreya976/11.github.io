@@ -37,4 +37,6 @@ plugins:
 collections:
   - publications
   - showcase
-  - projects
+  - projects:
+    output: true
+    permalink: /:collection/:path/
