@@ -3,8 +3,6 @@ homepage:
   show_news: true
   show_selected_publications: true
   num_news: 10
-
-# Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
-# if you keep the link to the template so that more people can benefit from it. Thanks!
+ 
 footer_text: >-
-  <a  ><i class="fas fa-pencil-ruler"></i> Uttishtata, Jagrata, Prapya Varanibodhata</a>
+ <a href="https://rkmvu.ac.in/overview/vision-and-mission-of-ramakrishna-math-and-ramakrishna-mission/"><i class="fas fa-pencil-ruler"></i> Uttishtata, Jagrata, Prapya Varanibodhata</a>
