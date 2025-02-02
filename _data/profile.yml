@@ -20,7 +20,7 @@ cv: /assets/pdf/My_resume (1).pdf
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  I am a doctoral student at <a href="https://www.iimk.ac.in/">Indian Institute of Management Kozhikode</a> specializing in Quantitative Methods & Operations Management. My research focuses on non-linear statistical regression and machine learning, particularly in the demographic and health domains. Additionally, I am working on spatio-temporal modeling related to air pollution.
+  Hi! I am a doctoral student at <a href="https://www.iimk.ac.in/">Indian Institute of Management Kozhikode</a> specializing in Quantitative Methods & Operations Management. My research focuses on non-linear statistical regression and machine learning, particularly in the demographic and health domains. Additionally, I am working on spatio-temporal modeling related to air pollution.
   </p>
   <p>
   I am open to collaboration in the fields of business analytics, sports analytics, and public health analytics.
@@ -34,7 +34,8 @@ short_bio: >-
   <p>
   In my recent role as a Statistician and Junior Data Manager at Johns Hopkins India Private Limited, Pune, I played a pivotal role in supervising data management teams, developing clinical risk prediction models, and contributing to statistical analysis plans for complex public health and clinical research projects. Additionally, I have worked on numerous freelance projects, demonstrating my expertise in survey design, clinical data analysis, and the application of advanced statistical methodologies.
   </p>
-
+  </p> When I’m not at my desk, you can find me running, playing chess, or doing something else fun outside!
+  <p>
 portrait_url: /assets/images/photos/profile.png
 portrait_caption: >-
   #Shreyash Deshmukh.
