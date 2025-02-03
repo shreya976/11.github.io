@@ -5,7 +5,7 @@ markdown: kramdown
 plugins:
   - jekyll-email-protect
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 collections:
   publications:
