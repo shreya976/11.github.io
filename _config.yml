@@ -4,8 +4,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 plugins:
   - jekyll-email-protect
-
-theme: jekyll-theme-slate
+theme: minima
+minima:
+  skin: dark
 
 collections:
   publications:
