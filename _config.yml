@@ -5,9 +5,7 @@ markdown: kramdown
 plugins:
   - jekyll-email-protect
 
-theme: minima
-minima:
-  skin: dark
+theme: jekyll-theme-cayman
 
 collections:
   publications:
