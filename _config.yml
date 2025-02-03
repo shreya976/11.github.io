@@ -19,7 +19,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 plugins:
   - jekyll-email-protect
-
+# Add these lines to your _config.yml file
+theme: minima
+minima:
+  skin: dark
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
