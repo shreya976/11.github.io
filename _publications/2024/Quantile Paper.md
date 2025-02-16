@@ -1,5 +1,5 @@
 ---
-title:          "A Survey of Statistical and Machine Learning Methods for Quantile Regression in Time Series"
+title:          "A survey of statistical and machine learning methods of quantile regression in time series and their suitability in predicting dengue outbreaks"
 date:           2024-01-01 00:00:00 +0000
 selected:       true
 pub:            "Japanese Journal of Statistics and Data Science"
