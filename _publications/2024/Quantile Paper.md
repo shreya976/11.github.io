@@ -11,5 +11,5 @@ authors:
 - Deshmukh, S.
 - Deb, S.
 links:
-  Journal: https://link.springer.com/journal/42081/volumes-and-issues
+  Paper: [https://link.springer.com/journal/42081/volumes-and-issues](https://link.springer.com/article/10.1007/s42081-025-00297-y?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250221&utm_content=10.1007/s42081-025-00297-y)
 ---
