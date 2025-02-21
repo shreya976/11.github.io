@@ -1,14 +1,20 @@
 ---
-title: "Showcase: My Work & Research"
+show: true
+width: 8
+date: 2024-01-12 00:01:00 +0800
 permalink: /showcase/
 collections:
   showcase:
     output: true
 ---
 
-# **Showcase: My Work & Research**
-
-Over the years, I have worked on **diverse projects**, ranging from **COVID-19 prediction, MRI segmentation, large-scale surveys, deep learning applications**, and **statistical modeling**. This space will serve as a **repository of my research, experiments, and insights**, where I will be compiling and sharing the materials I have used in my journey.
+<div class="p-4">
+    <h2>Showcase: My Work & Research</h2>
+    <hr />
+    <p>
+        Over the years, I have worked on <strong>diverse projects</strong>, ranging from <strong>COVID-19 prediction, MRI segmentation, large-scale surveys, deep learning applications</strong>, and <strong>statistical modeling</strong>. This space will serve as a <strong>repository of my research, experiments, and insights</strong>, where I will be compiling and sharing the materials I have used in my journey.
+    </p>
+</div>
 
 ## **Machine Learning in COVID-19 Risk Prediction**
 I explored the **RF-SLAM** machine learning approach to develop **SCARP** in the Indian context. We had limited data from two hospitals and aimed to leverage newly developed methodologies to create a **risk calculator for predicting severe illness or mortality in hospitalized COVID-19 patients**. We considered **105 variables** as inputs into the **RF-SLAM predictive algorithm**, leveraging **ensemble learning** and **random survival forests** to analyze right-censored survival data with time-varying covariates. Risk predictions were derived using **ensemble hazard rates** from the **Bayes estimate of the event rate**, implemented via a modified version of the **randomForestSRC package in R**. This project was never finished, but I have substantial work related to it that could be valuable for future young researchers.
