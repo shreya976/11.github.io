@@ -21,8 +21,7 @@ abstract: >-
 
 cover:          /assets/images/covers/inequality.jpeg
 authors:
-  - Your Name
-  - Shreyash Deshmukh
+- Shreyash Deshmukh
 links:
   PDF: /assets/pdf/term_paper_POM.pdf
 ---
