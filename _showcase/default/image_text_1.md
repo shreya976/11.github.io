@@ -11,7 +11,5 @@ date: 2020-01-12 00:01:00 +0800
     <p class="card-text">
      I am open to collaborations in business analytics, sports analytics, and public health analytics. If you are interested in working together, feel free to connect!
     </p>
-     
-    </p>
   </div>
 </div>
