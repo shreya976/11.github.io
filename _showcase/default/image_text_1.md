@@ -9,13 +9,9 @@ date: 2020-01-12 00:01:00 +0800
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
     <h5 class="card-title">Image Lazyload</h5>
     <p class="card-text">
-      It is highly recommended to use lazyload for images to improve page loading speed, especially for pages with many images.
-      Example code snippet:
+     I am open to collaborations in business analytics, sports analytics, and public health analytics. If you are interested in working together, feel free to connect!
     </p>
-    <p class="card-text">
-      {% raw %}
-      <code>&lt;img data-src=&quot;[Image URL]&quot; class=&quot;lazy w-100 rounded-sm&quot; src=&quot;{{ '/assets/images/empty_300x200.png' | relative_url }}&quot;&gt;</code>
-      {% endraw %}
+     
     </p>
   </div>
 </div>
