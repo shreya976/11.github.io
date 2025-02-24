@@ -3,7 +3,7 @@ secondary_name: " "
 navbar_name: "Shreyash Deshmukh"
 
 positions:
-  - logo: /assets/images/badges/IIM_Kozhikode_Logo.svg.png  # Logo is optional
+  - #logo: /assets/images/badges/IIM_Kozhikode_Logo.svg.png  # Logo is optional
     name: PhD Researcher
 
 email: shrdjhu@gmail.com
